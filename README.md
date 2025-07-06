@@ -12,7 +12,8 @@
 <h2>Environments Used </h2>
 
 - <b>Windows 10 OS</b>
-- <b>Windows 10 server OS</b> 
+- <b>Windows 10 server OS</b>
+- <b>Word</b> 
 
 <h2>Program walk-through:</h2>
 
