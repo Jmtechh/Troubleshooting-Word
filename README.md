@@ -6,7 +6,7 @@ The aim of this lab is to show you how to fix the issue of Word not opening due 
 <h2>Utilities Used</h2>
 
 - <b>Windows 10 0S</b> 
-- <b>Microsoft 365 OS</b>
+- <b>Microsoft 365 </b>
 
 <h2>Environments Used </h2>
 
