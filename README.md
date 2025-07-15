@@ -21,6 +21,8 @@ Before troubleshooting Word it's a best practice to open Word in safe mode so th
 
 <img src="https://i.imgur.com/atEjkQW.png" width="80%" alt="Disk Sanitization Steps"/>
 
+Once you are on the home page you click file in the top left corner.
+
 <img src="https://i.imgur.com/mfPgKUU.png" width="80%" alt="Disk Sanitization Steps"/>
 
 <img src="https://i.imgur.com/bSjAfNO.png" width="80%" alt="Disk Sanitization Steps"/>
