@@ -17,6 +17,8 @@
 
 <h2>Program walk-through:</h2>
 
+Before troubleshooting Word it's a best practice to open Word in safe mode so that you can isolate any potential applications preventing Word from running correctly.
+
 <img src="https://i.imgur.com/atEjkQW.png" width="80%" alt="Disk Sanitization Steps"/>
 
 <img src="https://i.imgur.com/mfPgKUU.png" width="80%" alt="Disk Sanitization Steps"/>
