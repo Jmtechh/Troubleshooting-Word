@@ -5,14 +5,12 @@ The aim of this lab is to show you how to fix the issue of Word not opening due 
 
 <h2>Utilities Used</h2>
 
-- <b>Virtualbox</b>
-- <b>virtual machines</b>
-- <b>Windows ISO</b> 
+- <b>Windows 10 0S</b> 
+- <b>Microsoft 365 OS</b>
 
 <h2>Environments Used </h2>
 
-- <b>Windows 10 OS</b>
-- <b>Windows 10 server OS</b>
+- <b>Windows 10 </b>
 - <b>Word</b> 
 
 <h2>Program walk-through:</h2>
