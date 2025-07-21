@@ -34,7 +34,7 @@ Now you can test to see which add-in is preventing Word from opening by removing
 
 <img src="https://i.imgur.com/wMcDICs.png" width="80%" alt="Disk Sanitization Steps"/>
 
-You can also remove uninstall an add-in by going to control panen and clicking on programs.
+You can also remove/uninstall an add-in by going to the control panel and clicking on programs.
 
 <img src="https://i.imgur.com/DdARsZU.png" width="80%" alt="Disk Sanitization Steps"/>
 
