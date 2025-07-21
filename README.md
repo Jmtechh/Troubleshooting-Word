@@ -5,7 +5,6 @@ The aim of this lab is to show you how to fix the issue of Word not opening due 
 
 <h2>Utilities Used</h2>
 
-- <b>Windows 10 0S</b> 
 - <b>Microsoft 365 </b>
 
 <h2>Environments Used </h2>
@@ -15,7 +14,7 @@ The aim of this lab is to show you how to fix the issue of Word not opening due 
 
 <h2>Program walk-through:</h2>
 
-Before troubleshooting Word it's a best practice to open Word in safe mode so that you can isolate any potential applications preventing Word from running correctly. You can do this by searching safe fomee in the search bar in the bottom left corner.
+Before troubleshooting Word it's a best practice to open Word in safe mode so that you can isolate any potential applications preventing Word from running correctly. You can do this by searching safe mode in the search bar in the bottom left corner.
 
 <img src="https://i.imgur.com/atEjkQW.png" width="80%" alt="Disk Sanitization Steps"/>
 
